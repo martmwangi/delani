@@ -13,8 +13,8 @@ body{
 /*Styling for contents inside the firsst container*/
 #cent{
     position: relative;
-    padding-left: 35%;
-    padding-top: 15%;
+    padding-left: 30%;
+    padding-top: 10%;
 }
 .circle1{
     border: 2px solid white;
@@ -23,16 +23,21 @@ body{
     padding:6px;
     border-radius: 100%;
     color: white;
+    padding-left: 4px;
 
 
 }
 .welcome{
     color: white;
     font-size: 80px;
-    padding-left: 2
+    padding-left: 42px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .delani{
-    color:white;60px;
+    color:white;
+    font-size: 60px;
+    padding-bottom: 20px;
 }
 .amazing{
     color: white;
