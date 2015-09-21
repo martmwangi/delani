@@ -4,6 +4,11 @@ body{
     margin-bottom: 0;
 
 }
+#wrapper{
+    margin: 0;
+    padding: 0;
+}
+
 .part1{
     background-image: url(/assets/assets/h_img.jpg);
     background-size: cover;
@@ -14,6 +19,12 @@ body{
     display: block;
 
 }
+/*.jumbotron{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(/assets/assets/h_img.jpg);
+}*/
 /*Styling for contents inside the firsst container*/
 #cent{
     position: relative;
