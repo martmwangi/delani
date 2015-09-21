@@ -10,13 +10,40 @@ body{
     width: 100%;
     height: 100vh;
 }
+/*Styling for contents inside the firsst container*/
+#cent{
+    position: relative;
+    padding-left: 35%;
+    padding-top: 15%;
+}
+.circle1{
+    border: 2px solid white;
+    width: 65px;
+    height: 60px;
+    padding:6px;
+    border-radius: 100%;
+    color: white;
+
+
+}
+.welcome{
+    color: white;
+    font-size: 80px;
+    padding-left: 2
+}
+.delani{
+    color:white;60px;
+}
+.amazing{
+    color: white;
+}
+
+
+
+
 .jumbotron{
     margin: 0;
 
 }
 
-#cent{
-    position: relative;
-    padding-left: 40%;
-    padding-top: 15%;
-}
+
